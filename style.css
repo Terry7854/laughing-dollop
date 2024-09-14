@@ -1,0 +1,45 @@
+header{
+    background-image: linear-gradient(to left, black, blue);
+    color: white;
+    text-align: center;
+}
+h1{
+    padding: 20px;
+    font-size: 70px;
+}
+body{
+    font-family: sans-serif;
+    background-image: linear-gradient(to left, black, blue);
+}
+.v{
+    background: linear-gradient(45deg, yellow 33%, green 66%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+font-size: 35px;
+}
+.p{
+    background-color: white;
+    padding: 50px;
+}
+.g{
+    margin-right: 50px;
+}
+.b{
+    background-color: ;
+}
+
+.footer{
+    color: wheat;
+    font-size: 30px;
+    background-color: black;
+    padding: 40px;
+}
+footer{
+   background-color: black;
+}
+.mi{
+  color: aliceblue;
+  text-decoration: none;
+  font-size: 30px;  
+  margin-left: 200px;
+}
